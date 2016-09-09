@@ -3,4 +3,5 @@
 var hrr18 = {
   name: 'Keeley Nakamoto',
   wchan: 'Wallun Chan'
+  hello: 'Hello world'
 }
